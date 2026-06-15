@@ -1,0 +1,31 @@
+{
+    "days": [0, 1, 2, 3, 4],
+    "day_map": {
+        "0": "Pazartesi",
+        "1": "Salı",
+        "2": "Çarşamba",
+        "3": "Perşembe",
+        "4": "Cuma"
+    },
+    "timeslots": [0, 1, 2, 3, 4, 5, 6, 7],
+    "time_map": {
+        "0": "09:00-10:00",
+        "1": "10:00-11:00",
+        "2": "11:00-12:00",
+        "3": "12:00-13:00",
+        "4": "13:00-14:00",
+        "5": "14:00-15:00",
+        "6": "15:00-16:00",
+        "7": "16:00-17:00"
+    },
+    "max_solve_time_seconds": 60.0,
+    "input_file": "data/bil 2.xlsx",
+    "output_dir": "output",
+    "db_config": {
+        "dbname": "optisched",
+        "user": "kaancanolcay",
+        "password": "",
+        "host": "localhost",
+        "port": "5434"
+    }
+}

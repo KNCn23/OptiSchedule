@@ -1,0 +1,70 @@
+classroom_id,classroom_name,classroom_type_id,lecture_capacity,exam_capacity,has_projector,has_tiered_base,has_lectern,computer_amount,class_name
+1,E501,1,30,20,true,false,true,,
+2,E502,1,39,24,true,true,true,,
+3,E503,1,36,23,true,false,true,,
+4,E504,1,30,15,true,false,true,,
+5,E505,1,20,10,true,true,true,,
+6,E506,1,27,19,true,true,true,,
+7,E507,1,54,36,true,true,true,,
+8,E508,1,49,29,true,false,true,,
+9,E401,1,36,19,true,true,true,,
+10,E402,1,34,19,true,true,true,,
+11,E403,1,24,14,true,true,true,,
+12,E404,1,40,20,true,false,true,,
+13,E405,1,20,8,true,false,true,,
+14,E406,1,33,20,true,false,true,,
+15,E407,1,52,31,true,true,true,,
+16,E408,1,38,20,true,false,true,,
+17,F201,2,120,,true,false,true,,
+18,F202,2,120,55,true,false,true,,
+19,F203,2,120,55,true,false,true,,
+20,F204,2,120,55,true,false,true,,
+21,F401,1,35,17,true,false,true,,
+22,F402,1,36,23,true,true,true,,
+23,F403,1,46,28,true,true,true,,
+24,F404,1,30,19,true,false,true,,
+25,F405,1,18,10,true,false,true,,
+26,F406,3,19,,true,false,false,20,Network Laboratuvarı
+27,F407,1,19,11,true,false,true,,
+28,F408,1,40,29,true,true,true,,
+29,F410,1,44,30,true,true,true,,
+30,F411,1,36,22,true,false,true,,
+31,F501,1,37,20,true,false,true,,
+32,F502,1,48,27,true,true,true,,
+33,F503,1,53,34,true,true,true,,
+34,F504,1,38,20,true,false,true,,
+35,F505,1,20,10,true,false,true,,
+36,F506,1,22,11,true,false,true,,
+37,F507,1,40,20,true,false,true,,
+38,F508,1,45,28,true,true,true,,
+39,F510,1,55,36,true,true,true,,
+40,F511,1,56,31,true,true,true,,
+41,F301,3,24,,true,false,false,25,Genel Bilgisayar-1 (Auto-Cad)
+42,F303,3,24,,true,false,false,25,Genel Bilgisayar-2
+43,F304,3,24,,true,false,false,25,Genel Bilgisayar-3
+44,F305,3,24,,true,false,false,25,Genel Bilgisayar-4
+45,F306,3,24,,true,false,false,25,Genel Bilgisayar-5
+46,F307,3,24,,true,false,false,25,Genel Bilgisayar-6
+47,F308,3,24,,true,false,false,25,Genel Bilgisayar-7 (Auto Cad)
+48,E301,3,20,,true,false,false,21,Mikroişlemci ve Sayısal-1
+49,E308,3,20,,true,false,false,21,Mikroişlemci ve Sayısal-3
+50,D401,3,20,,true,false,false,20,Elektrik-Elektronik Devre Teorisi-1
+51,D402,3,20,,true,false,false,20,Elektrik-Elektronik Devre Teorisi-2
+52,D301,3,18,,true,false,false,1,Esnek Üretim Sistemleri
+53,D302,3,18,,true,false,false,1,Ergonomi
+54,D304,3,18,,true,false,false,20,Yazılım ve Elektronik İleri Araştırma
+55,D201,3,16,,true,false,false,1,Kardiyovasküler
+56,D206,3,16,,true,false,false,1,Akışkanlar Mekaniği
+57,D207,3,16,,true,false,false,1,Uygulamalı Mekanik
+58,D208,3,16,,true,false,false,1,Takım Tezgahları ve İmalat
+59,D213,3,12,,true,false,false,1,Nanoteknoloji
+60,D102,3,16,,true,false,false,1,Mekatronik
+61,C202,3,16,,true,false,false,1,Biyomalzeme ve Biyosensörler
+62,C208,3,16,,true,false,false,1,Biyomedikal Enstrümantasyon-2
+63,C203,3,20,,true,false,false,1,Kimya-1
+64,C204,3,20,,true,false,false,1,Kimya-2
+65,C205,3,20,,true,false,false,1,Fizik-1
+66,C206,3,20,,true,false,false,1,Fizik-2
+67,C002,3,16,,true,false,false,1,Isı Transferi
+68,C003,3,16,,true,false,false,1,Malzeme ve Üretim
+69,C005,3,16,,true,false,false,1,Otomotiv

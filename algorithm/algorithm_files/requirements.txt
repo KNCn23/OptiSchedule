@@ -1,0 +1,5 @@
+pandas
+ortools
+openpyxl
+psycopg2-binary
+inquirer

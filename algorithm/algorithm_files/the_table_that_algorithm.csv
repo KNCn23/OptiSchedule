@@ -1,0 +1,467 @@
+section_id,course_id,course_code,course_name,section_number,instructor_id,instructor_full_name,weekly_hours,theoretical_hours,lab_hours,is_online,is_service,is_common,capacity,target_department_ids
+465,776,AI104,BİLGİSAYAR DESTEKLİ TASARIMA GİRİŞ,1,14,Doç. Dr. MUHAMMED ARAS,3,3,0,false,false,false,8,{7}
+466,800,AI313,MAKİNE ÖĞRENMESİNE GİRİŞ,1,50,Prof. Dr. MUSTAFA SERT,4,3,1,false,false,false,15,{7}
+1,25,ATA202,ATATÜRK İLKELERİ VE İNKILAP TARİHİ II,22,154,Prof. Dr. Halil Özcan,2,2,0,false,false,false,141,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+2,25,ATA202,ATATÜRK İLKELERİ VE İNKILAP TARİHİ II,27,135,Dr. Öğr. Üyesi Mehmet Sedat Erkan,2,2,0,false,false,false,120,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+3,25,ATA202,ATATÜRK İLKELERİ VE İNKILAP TARİHİ II,29,135,Dr. Öğr. Üyesi Mehmet Sedat Erkan,2,2,0,false,false,false,120,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+160,1087,BENG418,INTRODUCTION TO MICROSCOPIC IMAGING,1,132,Dr. Öğr. Üyesi Hüseyin Kurtuldu,4,3,1,false,false,false,6,{9}
+161,1118,BENG450,MANUFACTURING TECHNOLOGY,1,100,Dr. Öğr. Üyesi GÖKSEL DURKAYA,3,3,0,false,false,false,7,{9}
+162,1093,BENG480,ÇEVİRİCİLER VE BİYOMEDİKAL UYGULAMALARI,1,176,Prof. Dr. İsmail Cengiz Koçum,3,3,0,false,false,false,7,{9}
+163,1098,BENG488,MEDİKAL GÖRÜNTÜLEME SİSTEMLERİ VE SAHA UYGULAMALARI,1,172,Prof. Dr. Ziya Telatar,4,3,1,false,false,false,15,{9}
+197,567,BME418,MİKROSKOPİK GÖRÜNTÜLEMEYE GİRİŞ,1,132,Dr. Öğr. Üyesi Hüseyin Kurtuldu,4,3,1,false,false,false,8,{5}
+198,597,BME450,ÜRETİM TEKNOLOJİLERİ,1,100,Dr. Öğr. Üyesi GÖKSEL DURKAYA,3,3,0,false,false,false,16,{5}
+199,573,BME480,ÇEVİRİCİLER VE BİYOMEDİKAL UYGULAMALARI,1,176,Prof. Dr. İsmail Cengiz Koçum,3,3,0,false,false,false,5,{5}
+200,578,BME488,MEDİKAL GÖRÜNTÜLEME SİSTEMLERİ VE SAHA UYGULAMALARI,1,247,Öğr. Gör. Tuğçe Kantar Uğur,4,3,1,false,false,false,23,{5}
+4,3,BİL101,BİLGİSAYAR YAZILIMI I,1,181,Öğr. Gör. Ayşenur Yurtsever,4,3,1,false,false,true,36,"{1,2,3,5,6}"
+5,3,BİL101,BİLGİSAYAR YAZILIMI I,2,197,Öğr. Gör. Dr. Gülbahar Akgün,4,3,1,false,false,true,35,"{1,2,3,5,6}"
+6,3,BİL101,BİLGİSAYAR YAZILIMI I,3,214,Öğr. Gör. Giray Sercan Özcan,4,3,1,false,false,true,35,"{1,2,3,5,6}"
+7,3,BİL101,BİLGİSAYAR YAZILIMI I,4,197,Öğr. Gör. Dr. Gülbahar Akgün,4,3,1,false,false,true,36,"{1,2,3,5,6}"
+8,3,BİL101,BİLGİSAYAR YAZILIMI I,5,191,Öğr. Gör. Dr. Ayşe Bayrak,4,3,1,false,false,true,35,"{1,2,3,5,6}"
+9,3,BİL101,BİLGİSAYAR YAZILIMI I,6,191,Öğr. Gör. Dr. Ayşe Bayrak,4,3,1,false,false,true,30,"{1,2,3,5,6}"
+10,256,BİL102,BİLGİSAYAR YAZILIMI II,1,90,Dr. Öğr. Üyesi MUHAMMET YORULMAZ,4,3,1,false,false,false,47,"{3,5}"
+325,256,BİL102,BİLGİSAYAR YAZILIMI II,2,131,Dr. Öğr. Üyesi Halil Ersoy,4,3,1,false,false,false,30,"{3,5}"
+192,256,BİL102,BİLGİSAYAR YAZILIMI II,3,72,Dr. Öğr. Üyesi TANSEL UYAR,4,3,1,false,false,false,45,"{3,5}"
+11,4,BİL105,PROGRAMLAMA LABORATUVARI I,1,107,Arş. Gör. Büşra Kübra Karaca Aydemir,2,0,2,false,false,true,24,"{1,2,3,5,6}"
+12,4,BİL105,PROGRAMLAMA LABORATUVARI I,2,107,Arş. Gör. Büşra Kübra Karaca Aydemir,2,0,2,false,false,true,24,"{1,2,3,5,6}"
+13,4,BİL105,PROGRAMLAMA LABORATUVARI I,3,214,Öğr. Gör. Giray Sercan Özcan,2,0,2,false,false,true,24,"{1,2,3,5,6}"
+14,4,BİL105,PROGRAMLAMA LABORATUVARI I,4,214,Öğr. Gör. Giray Sercan Özcan,2,0,2,false,false,true,24,"{1,2,3,5,6}"
+15,4,BİL105,PROGRAMLAMA LABORATUVARI I,5,181,Öğr. Gör. Ayşenur Yurtsever,2,0,2,false,false,true,21,"{1,2,3,5,6}"
+16,4,BİL105,PROGRAMLAMA LABORATUVARI I,6,181,Öğr. Gör. Ayşenur Yurtsever,2,0,2,false,false,true,21,"{1,2,3,5,6}"
+17,4,BİL105,PROGRAMLAMA LABORATUVARI I,7,74,Dr. Öğr. Üyesi SEPEHR KARADAĞLI,2,0,2,false,false,true,24,"{1,2,3,5,6}"
+18,4,BİL105,PROGRAMLAMA LABORATUVARI I,8,74,Dr. Öğr. Üyesi SEPEHR KARADAĞLI,2,0,2,false,false,true,24,"{1,2,3,5,6}"
+193,257,BİL106,PROGRAMLAMA LABORATUVARI II,1,90,Dr. Öğr. Üyesi MUHAMMET YORULMAZ,2,0,2,false,false,false,24,"{3,5}"
+194,257,BİL106,PROGRAMLAMA LABORATUVARI II,2,90,Dr. Öğr. Üyesi MUHAMMET YORULMAZ,2,0,2,false,false,false,24,"{3,5}"
+195,257,BİL106,PROGRAMLAMA LABORATUVARI II,3,72,Dr. Öğr. Üyesi TANSEL UYAR,2,0,2,false,false,false,24,"{3,5}"
+19,257,BİL106,PROGRAMLAMA LABORATUVARI II,4,131,Dr. Öğr. Üyesi Halil Ersoy,2,0,2,false,false,false,5,"{3,5}"
+196,257,BİL106,PROGRAMLAMA LABORATUVARI II,5,72,Dr. Öğr. Üyesi TANSEL UYAR,2,0,2,false,false,false,24,"{3,5}"
+20,11,BİL122,İLERİ PROGRAMLAMA,1,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,4,3,1,false,false,false,61,{1}
+21,12,BİL124,İLERİ PROGRAMLAMA UYGULAMALARI,1,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,2,0,2,false,false,false,18,{1}
+22,12,BİL124,İLERİ PROGRAMLAMA UYGULAMALARI,2,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,2,0,2,false,false,false,18,{1}
+23,12,BİL124,İLERİ PROGRAMLAMA UYGULAMALARI,3,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,2,0,2,false,false,false,22,{1}
+24,12,BİL124,İLERİ PROGRAMLAMA UYGULAMALARI,4,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,2,0,2,false,false,false,21,{1}
+25,13,BİL172,YAŞAM BİLİMLERİ VE BİLGİSAYAR MÜHENDİSLİĞİ,1,54,Dr. Öğr. Üyesi TOLGA TARKAN ÖLMEZ,3,2,1,false,false,false,51,{1}
+26,13,BİL172,YAŞAM BİLİMLERİ VE BİLGİSAYAR MÜHENDİSLİĞİ,2,54,Dr. Öğr. Üyesi TOLGA TARKAN ÖLMEZ,3,2,1,false,false,false,48,{1}
+27,26,BİL210,ELEKTRONİĞE GİRİŞ,1,238,Öğr. Gör. Oğul Göçmen,5,3,2,false,false,false,41,{1}
+28,26,BİL210,ELEKTRONİĞE GİRİŞ,2,238,Öğr. Gör. Oğul Göçmen,5,3,2,false,false,false,37,{1}
+29,27,BİL218,BİLGİSAYAR ORGANİZASYONU,1,146,Dr. Öğr. Üyesi İclal Çetin Taş,4,3,1,false,false,false,35,{1}
+30,27,BİL218,BİLGİSAYAR ORGANİZASYONU,2,146,Dr. Öğr. Üyesi İclal Çetin Taş,4,3,1,false,false,false,37,{1}
+31,28,BİL240,PROGRAMLAMA DİLLERİ,1,9,Doç. Dr. EMRE SÜMER,4,3,1,false,false,false,80,{1}
+32,40,BİL332,İŞLETİM SİSTEMLERİ,1,134,Dr. Öğr. Üyesi Mehmet Dikmen,4,3,1,false,false,false,45,{1}
+33,40,BİL332,İŞLETİM SİSTEMLERİ,2,134,Dr. Öğr. Üyesi Mehmet Dikmen,4,3,1,false,false,false,48,{1}
+34,41,BİL344,VERİTABANI SİSTEMLERİ,1,39,Prof. Dr. MURAT HACIÖMEROĞLU,5,3,2,false,false,false,110,{1}
+35,42,BİL386,YAZILIM MÜHENDİSLİĞİNE GİRİŞ,1,124,Dr. Öğr. Üyesi Didem Ölçer,5,3,2,false,false,false,45,{1}
+36,42,BİL386,YAZILIM MÜHENDİSLİĞİNE GİRİŞ,2,124,Dr. Öğr. Üyesi Didem Ölçer,5,3,2,false,false,false,43,{1}
+37,64,BİL392,OYUN TEKNOLOJİLERİ,1,238,Öğr. Gör. Oğul Göçmen,4,3,1,false,false,false,25,{1}
+38,68,BİL443,KRİPTOGRAFİ VE GÜVENLİK,1,197,Öğr. Gör. Dr. Gülbahar Akgün,3,3,0,false,false,false,30,{1}
+39,72,BİL457,KUANTUM HESAPLAMAYA GİRİŞ,1,195,Öğr. Gör. Dr. Esin Turan,3,3,0,false,false,false,47,{1}
+40,73,BİL458,BULUT ÇÖZÜME GİRİŞ,1,196,Öğr. Gör. Dr. Gökhan Memiş,3,3,0,false,false,false,61,{1}
+41,74,BİL459,YAZILIM MİMARİLERİ,1,,,3,3,0,false,false,false,53,{1}
+42,80,BİL478,PARALEL VERİ İŞLEME,1,,,3,3,0,false,false,false,51,{1}
+43,81,BİL479,ÖRÜNTÜ TANIMA,1,198,Öğr. Gör. Dr. Hakan Tora,4,3,1,false,false,false,10,{1}
+44,83,BİL481,BİLGİSAYAR MÜHENDİSLİĞİNDE ÖZEL KONULAR,1,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,3,3,0,false,false,false,6,{1}
+45,52,BİL482,"ETİK,TOPLUM VE MESLEK",1,,,3,3,0,false,false,false,93,{1}
+372,390,CE102,İNŞAAT MÜHENDİSLERİ İÇİN JEOLOJİ,1,250,Öğr. Gör. Özge Yücel,4,3,1,false,false,false,50,{4}
+373,405,CE202,OLASILIK VE İSTATİSTİĞE GİRİŞ,1,128,Dr. Öğr. Üyesi Funda Türe Kibar,4,3,1,false,false,false,30,{4}
+374,406,CE212,İNŞAAT MÜHENDİSLERİ İÇİN SAYISAL YÖNTEMLER,1,140,Dr. Öğr. Üyesi Sevinç Ünsal Oral,4,2,2,false,false,false,30,{4}
+375,398,CE221,MÜHENDİSLİK MEKANİĞİ I,1,92,Dr. Öğr. Üyesi KAAN KAATSIZ,3,3,0,false,false,false,20,{4}
+376,407,CE222,MÜHENDİSLİK MEKANİĞİ II,1,38,Dr. Öğr. Üyesi FIRAT SONER ALICI,3,3,0,false,false,false,30,{4}
+377,408,CE224,MALZEMELERİN MEKANİĞİ,1,92,Dr. Öğr. Üyesi KAAN KAATSIZ,5,3,2,false,false,false,30,{4}
+378,400,CE241,İNŞAAT MÜHENDİSLERİ İÇİN MALZEME BİLİMİ,1,74,Dr. Öğr. Üyesi SEPEHR KARADAĞLI,3,2,1,false,false,false,10,{4}
+379,417,CE332,YAPIM MÜHENDİSLİĞİ VE YÖNETİMİ,1,129,Dr. Öğr. Üyesi Gözde Bilgin,4,3,1,false,false,false,20,{4}
+380,418,CE362,TEMEL MÜHENDİSLİĞİ,1,140,Dr. Öğr. Üyesi Sevinç Ünsal Oral,4,3,1,false,false,false,20,{4}
+381,419,CE372,HİDROMEKANİK,1,246,Öğr. Gör. Tuğçe Başar,4,3,1,false,false,false,20,{4}
+382,420,CE376,SU KAYNAKLARI MÜHENDİSLİĞİ,1,175,Prof. Dr. İbrahim Gürer,4,3,1,false,false,false,20,{4}
+383,421,CE382,BETONARME YAPILAR,1,85,Prof. Dr. HAKKI POLAT GÜLKAN,3,3,0,false,false,false,20,{4}
+384,422,CE386,ÇELİK YAPILAR,1,38,Dr. Öğr. Üyesi FIRAT SONER ALICI,4,3,1,false,false,false,20,{4}
+385,433,CE412,İNŞAAT MÜHENDİSLİĞİ TASARIMI II,2,175,Prof. Dr. İbrahim Gürer,5,1,4,false,false,false,1,{4}
+386,433,CE412,İNŞAAT MÜHENDİSLİĞİ TASARIMI II,3,128,Dr. Öğr. Üyesi Funda Türe Kibar,5,1,4,false,false,false,1,{4}
+387,433,CE412,İNŞAAT MÜHENDİSLİĞİ TASARIMI II,4,140,Dr. Öğr. Üyesi Sevinç Ünsal Oral,5,1,4,false,false,false,1,{4}
+388,433,CE412,İNŞAAT MÜHENDİSLİĞİ TASARIMI II,5,74,Dr. Öğr. Üyesi SEPEHR KARADAĞLI,5,1,4,false,false,false,1,{4}
+389,434,CE430,İNŞAATTA İŞ SAĞLIĞI VE GÜVENLİĞİ,1,194,Öğr. Gör. Dr. Dilşad Akal Yılmaz,2,2,0,false,false,false,10,{4}
+390,435,CE432,İNŞAAT MÜHENDİSLİĞİNDE PROJE YÖNETİMİ,1,129,Dr. Öğr. Üyesi Gözde Bilgin,3,3,0,false,false,false,10,{4}
+391,443,CE435,ŞANTİYE MÜHENDİSLİĞİ VE TEKNOLOJİSİ,1,129,Dr. Öğr. Üyesi Gözde Bilgin,3,3,0,false,false,false,4,{4}
+392,446,CE441,MODERN YAPI MALZEMELERİ,1,74,Dr. Öğr. Üyesi SEPEHR KARADAĞLI,3,3,0,false,false,false,4,{4}
+393,449,CE452,TRAFİK GÜVENLİĞİ VE KAZA İNCELEMESİ,1,128,Dr. Öğr. Üyesi Funda Türe Kibar,3,3,0,false,false,false,5,{4}
+394,459,CE478,SU GÜCÜ MÜHENDİSLİĞİ,1,175,Prof. Dr. İbrahim Gürer,3,3,0,false,false,false,2,{4}
+395,466,CE489,YAPI SİSTEMLERİNİN DEPREME KARŞI TASARIMI,1,92,Dr. Öğr. Üyesi KAAN KAATSIZ,3,3,0,false,false,false,2,{4}
+240,388,CENG103,BİLGİSAYAR YAZILIMI I,1,246,Öğr. Gör. Tuğçe Başar,4,3,1,false,false,false,46,"{4,7,9,10,11,12}"
+164,388,CENG103,BİLGİSAYAR YAZILIMI I,2,29,Dr. Öğr. Üyesi BURCU OLTU,4,3,1,false,false,false,60,"{4,7,9,10,11,12}"
+241,388,CENG103,BİLGİSAYAR YAZILIMI I,3,38,Dr. Öğr. Üyesi FIRAT SONER ALICI,4,3,1,false,false,false,47,"{4,7,9,10,11,12}"
+165,1038,CENG104,COMPUTER PROGRAMMING III,1,131,Dr. Öğr. Üyesi Halil Ersoy,4,3,1,false,false,false,40,"{9,11}"
+166,389,CENG105,PROGRAMLAMA LABORATUVARI I,1,29,Dr. Öğr. Üyesi BURCU OLTU,2,0,2,false,false,false,20,"{4,7,9,10,11,12}"
+167,389,CENG105,PROGRAMLAMA LABORATUVARI I,2,29,Dr. Öğr. Üyesi BURCU OLTU,2,0,2,false,false,false,20,"{4,7,9,10,11,12}"
+168,389,CENG105,PROGRAMLAMA LABORATUVARI I,3,39,Prof. Dr. MURAT HACIÖMEROĞLU,2,0,2,false,false,false,21,"{4,7,9,10,11,12}"
+169,389,CENG105,PROGRAMLAMA LABORATUVARI I,4,39,Prof. Dr. MURAT HACIÖMEROĞLU,2,0,2,false,false,false,21,"{4,7,9,10,11,12}"
+170,389,CENG105,PROGRAMLAMA LABORATUVARI I,5,39,Prof. Dr. MURAT HACIÖMEROĞLU,2,0,2,false,false,false,20,"{4,7,9,10,11,12}"
+171,389,CENG105,PROGRAMLAMA LABORATUVARI I,6,39,Prof. Dr. MURAT HACIÖMEROĞLU,2,0,2,false,false,false,20,"{4,7,9,10,11,12}"
+172,1039,CENG106,PROGRAMMING LABORATORY II,1,131,Dr. Öğr. Üyesi Halil Ersoy,2,0,2,false,false,false,22,"{9,11}"
+173,1039,CENG106,PROGRAMMING LABORATORY II,2,131,Dr. Öğr. Üyesi Halil Ersoy,2,0,2,false,false,false,22,"{9,11}"
+294,381,CHEM110,GENEL KİMYA,3,127,Dr. Öğr. Üyesi Filiz Kara,4,3,1,false,false,false,59,"{4,7,9,10,11,12}"
+295,381,CHEM110,GENEL KİMYA,4,150,Prof. Dr. Emine Gül Cansu Ergün,4,3,1,false,false,false,60,"{4,7,9,10,11,12}"
+296,382,CHEM116,GENEL KİMYA LABORATUVARI,1,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,10,"{4,7,9,10,11,12}"
+297,382,CHEM116,GENEL KİMYA LABORATUVARI,2,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,10,"{4,7,9,10,11,12}"
+298,382,CHEM116,GENEL KİMYA LABORATUVARI,3,127,Dr. Öğr. Üyesi Filiz Kara,2,0,2,false,false,false,18,"{4,7,9,10,11,12}"
+299,382,CHEM116,GENEL KİMYA LABORATUVARI,4,150,Prof. Dr. Emine Gül Cansu Ergün,2,0,2,false,false,false,17,"{4,7,9,10,11,12}"
+300,382,CHEM116,GENEL KİMYA LABORATUVARI,5,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,24,"{4,7,9,10,11,12}"
+301,382,CHEM116,GENEL KİMYA LABORATUVARI,6,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,16,"{4,7,9,10,11,12}"
+116,909,CSE101,COMPUTER PROGRAMMING I,2,29,Dr. Öğr. Üyesi BURCU OLTU,4,3,1,false,false,true,12,{8}
+117,910,CSE105,PROGRAMMING LABORATORY I,1,29,Dr. Öğr. Üyesi BURCU OLTU,2,0,2,false,false,true,5,{8}
+118,910,CSE105,PROGRAMMING LABORATORY I,3,39,Prof. Dr. MURAT HACIÖMEROĞLU,2,0,2,false,false,true,5,{8}
+119,910,CSE105,PROGRAMMING LABORATORY I,5,39,Prof. Dr. MURAT HACIÖMEROĞLU,2,0,2,false,false,true,5,{8}
+120,917,CSE122,ADVANCED PROGRAMMING,1,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,4,3,1,false,false,false,50,{8}
+121,918,CSE124,ADVANCED PROGRAMMING PRACTICES,1,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,2,0,2,false,false,false,26,{8}
+122,918,CSE124,ADVANCED PROGRAMMING PRACTICES,3,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,2,0,2,false,false,false,30,{8}
+123,919,CSE172,LIFE SCIENCES AND COMPUTER ENGINEERING,1,54,Dr. Öğr. Üyesi TOLGA TARKAN ÖLMEZ,3,2,1,false,false,false,31,{8}
+124,919,CSE172,LIFE SCIENCES AND COMPUTER ENGINEERING,2,54,Dr. Öğr. Üyesi TOLGA TARKAN ÖLMEZ,3,2,1,false,false,false,30,{8}
+125,932,CSE210,INTRODUCTION TO ELECTRONICS,1,,,5,3,2,false,false,false,50,{8}
+126,933,CSE218,COMPUTER ORGANIZATION,1,115,Doç. Dr. Serap Altay Arpali,4,3,1,false,false,false,57,{8}
+127,934,CSE240,PROGRAMMING LANGUAGES,1,9,Doç. Dr. EMRE SÜMER,4,3,1,false,false,false,50,{8}
+128,946,CSE332,OPERATING SYSTEMS,1,134,Dr. Öğr. Üyesi Mehmet Dikmen,4,3,1,false,false,false,15,{8}
+129,946,CSE332,OPERATING SYSTEMS,2,134,Dr. Öğr. Üyesi Mehmet Dikmen,4,3,1,false,false,false,17,{8}
+130,947,CSE344,DATABASE SYSTEMS,1,39,Prof. Dr. MURAT HACIÖMEROĞLU,5,3,2,false,false,false,30,{8}
+131,948,CSE386,INTRODUCTION TO SOFTWARE ENGINEERING,1,124,Dr. Öğr. Üyesi Didem Ölçer,5,3,2,false,false,false,20,{8}
+132,948,CSE386,INTRODUCTION TO SOFTWARE ENGINEERING,2,124,Dr. Öğr. Üyesi Didem Ölçer,5,3,2,false,false,false,15,{8}
+133,986,CSE479,PATTERN RECOGNITION,1,198,Öğr. Gör. Dr. Hakan Tora,4,3,1,false,false,false,37,{8}
+134,988,CSE481,SPECIAL TOPICS IN COMPUTER ENGINEERING,1,1,Doç. Dr. ÇAĞATAY BERKE ERDAŞ,3,3,0,false,false,false,25,{8}
+135,958,CSE482,"ETHICS, SOCIETY AND PROFESSION",1,,,3,3,0,false,false,false,23,{8}
+242,1164,EEE120,İLERİ PROGRAMLAMA TEKNİKLERİ,1,126,Dr. Öğr. Üyesi Emre Öner Tartan,5,2,3,false,false,false,20,{10}
+243,1164,EEE120,İLERİ PROGRAMLAMA TEKNİKLERİ,2,126,Dr. Öğr. Üyesi Emre Öner Tartan,5,2,3,false,false,false,20,{10}
+244,1179,EEE202,DEVRE TEORİSİ II,1,166,Prof. Dr. Sedat Nazlıbilek,6,3,3,false,false,false,25,{10}
+245,1180,EEE214,ELEKTRONİK I,1,123,Dr. Öğr. Üyesi Deniz Karaçor,6,3,3,false,false,false,25,{10}
+246,1181,EEE226,ELEKTROMANYETİK I,1,41,Dr. Öğr. Üyesi HAYRULLAH YILDIZ,4,3,1,false,false,false,20,{10}
+247,1192,EEE310,SİNYALLER VE SİSTEMLER II,1,60,Doç. Dr. SELDA GÜNEY,4,3,1,false,false,false,25,{10}
+248,1193,EEE312,SAYISAL ELEKTRONİK,1,115,Doç. Dr. Serap Altay Arpali,6,3,3,false,false,false,25,{10}
+249,1194,EEE322,DENETİM SİSTEMLERİ,1,16,Dr. Öğr. Üyesi BÜLENT İRFANOĞLU,4,3,1,false,false,false,15,{10}
+250,1194,EEE322,DENETİM SİSTEMLERİ,2,16,Dr. Öğr. Üyesi BÜLENT İRFANOĞLU,4,3,1,false,false,false,15,{10}
+251,1195,EEE332,MİKROİŞLEMCİLER,1,155,Prof. Dr. Hamit Erdem,5,2,3,false,false,false,10,{10}
+252,1195,EEE332,MİKROİŞLEMCİLER,2,155,Prof. Dr. Hamit Erdem,5,2,3,false,false,false,14,{10}
+253,1209,EEE335,BİLGİSAYAR ORGANİZASYONU,1,115,Doç. Dr. Serap Altay Arpali,4,3,1,false,false,false,12,{10}
+254,1215,EEE415,MİKROİŞLEMCİ ARAYÜZ TEKNİKLERİ,1,36,Dr. Öğr. Üyesi MURAT EREN,4,3,1,false,false,false,10,{10}
+255,1221,EEE429,ANS/GNSS NAVİGASYON SİSTEMLERİNE GİRİŞ,1,36,Dr. Öğr. Üyesi MURAT EREN,4,3,1,false,false,false,15,{10}
+256,1228,EEE449,FPGA BASED DİGİTAL CİRCUİT DESİGN,1,171,Prof. Dr. Yusuf Ziya İder,4,3,1,false,false,false,10,{10}
+257,1206,EEE450,ELEKTRİK MAKİNELERİ,1,78,Prof. Dr. GÜNGÖR BAL,5,2,3,false,false,false,25,{10}
+258,1230,EEE452,GÜÇ SİSTEMLERİ ANALİZİ,1,78,Prof. Dr. GÜNGÖR BAL,4,3,1,false,false,false,10,{10}
+263,133,EEM120,İLERİ PROGRAMLAMA TEKNİKLERİ,1,126,Dr. Öğr. Üyesi Emre Öner Tartan,5,2,3,false,false,false,45,{2}
+264,133,EEM120,İLERİ PROGRAMLAMA TEKNİKLERİ,2,126,Dr. Öğr. Üyesi Emre Öner Tartan,5,2,3,false,false,false,47,{2}
+265,148,EEM202,DEVRE TEORİSİ II,1,76,Doç. Dr. MURAT ÜÇÜNCÜ,6,3,3,false,false,false,35,{2}
+266,148,EEM202,DEVRE TEORİSİ II,2,76,Doç. Dr. MURAT ÜÇÜNCÜ,6,3,3,false,false,false,39,{2}
+267,149,EEM214,ELEKTRONİK I,1,130,Dr. Öğr. Üyesi Gülşah Demirhan Aydın,6,3,3,false,false,false,43,{2}
+268,149,EEM214,ELEKTRONİK I,2,130,Dr. Öğr. Üyesi Gülşah Demirhan Aydın,6,3,3,false,false,false,30,{2}
+269,150,EEM226,ELEKTROMANYETİK I,1,81,Prof. Dr. SITKI ÇAĞDAŞ İNAM,4,3,1,false,false,false,40,{2}
+270,150,EEM226,ELEKTROMANYETİK I,2,41,Dr. Öğr. Üyesi HAYRULLAH YILDIZ,4,3,1,false,false,false,40,{2}
+271,161,EEM310,SİNYALLER VE SİSTEMLER II,1,144,Dr. Öğr. Üyesi Yaşar Nuri Sevgen,4,3,1,false,false,false,85,{2}
+272,162,EEM312,SAYISAL ELEKTRONİK,1,218,Öğr. Gör. Hande Bakiler,6,3,3,false,false,false,40,{2}
+273,162,EEM312,SAYISAL ELEKTRONİK,2,218,Öğr. Gör. Hande Bakiler,6,3,3,false,false,false,47,{2}
+274,163,EEM322,DENETİM SİSTEMLERİ,1,16,Dr. Öğr. Üyesi BÜLENT İRFANOĞLU,4,3,1,false,false,false,46,{2}
+275,163,EEM322,DENETİM SİSTEMLERİ,2,16,Dr. Öğr. Üyesi BÜLENT İRFANOĞLU,4,3,1,false,false,false,53,{2}
+276,164,EEM332,MİKROİŞLEMCİLER,1,155,Prof. Dr. Hamit Erdem,5,2,3,false,false,false,40,{2}
+277,164,EEM332,MİKROİŞLEMCİLER,2,155,Prof. Dr. Hamit Erdem,5,2,3,false,false,false,40,{2}
+278,178,EEM335,BİLGİSAYAR ORGANİZASYONU,1,115,Doç. Dr. Serap Altay Arpali,4,3,1,false,false,false,37,{2}
+279,184,EEM415,MİKROİŞLEMCİ ARAYÜZ TEKNİKLERİ,1,36,Dr. Öğr. Üyesi MURAT EREN,4,3,1,false,false,false,50,{2}
+280,190,EEM429,ANS/GNSS NAVİGASYON SİSTEMLERİNE GİRİŞ,1,36,Dr. Öğr. Üyesi MURAT EREN,4,3,1,false,false,false,30,{2}
+281,198,EEM449,FPGA TEMELLİ SAYISAL DEVRE TASARIMI,1,171,Prof. Dr. Yusuf Ziya İder,4,3,1,false,false,false,30,{2}
+282,175,EEM450,ELEKTRİK MAKİNELERİ,1,78,Prof. Dr. GÜNGÖR BAL,5,2,3,false,false,false,55,{2}
+283,200,EEM452,GÜÇ SİSTEMLERİ ANALİZİ,1,78,Prof. Dr. GÜNGÖR BAL,4,3,1,false,false,false,55,{2}
+284,206,EEM476,ENSTRÜMANTASYON VE ÖLÇME,1,144,Dr. Öğr. Üyesi Yaşar Nuri Sevgen,4,3,1,false,false,false,65,{2}
+326,273,END208,YÖNEYLEM ARAŞTIRMASI I,1,64,Doç. Dr. ESRA AKBAL,4,3,1,false,false,false,49,{3}
+327,273,END208,YÖNEYLEM ARAŞTIRMASI I,2,25,Dr. Öğr. Üyesi GÖZDE ÖNDER UZUN,4,3,1,false,false,false,47,{3}
+328,274,END212,İŞBİLİM,1,153,Prof. Dr. Gülin Feryal Ural,3,2,1,false,false,false,46,{3}
+329,274,END212,İŞBİLİM,2,153,Prof. Dr. Gülin Feryal Ural,3,2,1,false,false,false,39,{3}
+330,275,END214,İSTATİSTİKSEL ANALİZ,1,159,Prof. Dr. Kumru Didem Atalay,4,3,1,false,false,false,52,{3}
+331,275,END214,İSTATİSTİKSEL ANALİZ,2,138,Dr. Öğr. Üyesi Pelin Toktaş,4,3,1,false,false,false,47,{3}
+332,276,END216,ALGORİTMA MANTIĞI VE UYGULAMALARI,1,181,Öğr. Gör. Ayşenur Yurtsever,3,3,0,false,false,false,44,{3}
+333,276,END216,ALGORİTMA MANTIĞI VE UYGULAMALARI,2,181,Öğr. Gör. Ayşenur Yurtsever,3,3,0,false,false,false,42,{3}
+334,289,END304,ÜRETİM SİSTEMLERİ VE TESİS PLANLAMASI,1,,,4,2,2,false,false,false,35,{3}
+335,289,END304,ÜRETİM SİSTEMLERİ VE TESİS PLANLAMASI,2,,,4,2,2,false,false,false,42,{3}
+336,290,END310,ÜRETİM PLANLAMA VE KONTROLÜ I,1,48,Dr. Öğr. Üyesi TUSAN DERYA,4,3,1,false,false,false,46,{3}
+337,290,END310,ÜRETİM PLANLAMA VE KONTROLÜ I,2,64,Doç. Dr. ESRA AKBAL,4,3,1,false,false,false,38,{3}
+338,291,END320,BENZETİM,1,102,Dr. Öğr. Üyesi MERVE UZUNER,4,3,1,false,false,false,27,{3}
+339,291,END320,BENZETİM,2,102,Dr. Öğr. Üyesi MERVE UZUNER,4,3,1,false,false,false,27,{3}
+340,305,END352,TAHMİN TEKNİKLERİ,1,42,Dr. Öğr. Üyesi MEHMET GÜLŞEN,3,3,0,false,false,false,47,{3}
+341,306,END353,ÜRETİM BİLGİ SİSTEMLERİ,1,90,Dr. Öğr. Üyesi MUHAMMET YORULMAZ,3,3,0,false,false,false,22,{3}
+342,308,END355,PROJE YÖNETİMİ,1,48,Dr. Öğr. Üyesi TUSAN DERYA,4,3,1,false,false,false,43,{3}
+343,309,END356,RİSK ANALİZİ VE YÖNETİMİ,1,153,Prof. Dr. Gülin Feryal Ural,4,3,1,false,false,false,56,{3}
+344,314,END420,KARAR DESTEK SİSTEMLERİ VE UYGULAMALARI,1,,,4,3,1,false,false,false,25,{3}
+345,320,END429,SİSTEM ANALİZİ VE ANA TASARIM TEKNİKLERİ,1,,,3,3,0,false,false,false,42,{3}
+346,321,END434,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR,1,42,Dr. Öğr. Üyesi MEHMET GÜLŞEN,3,3,0,false,false,false,43,{3}
+201,6,ENG199,ADVANCED ENGLISH I,1,208,Öğr. Gör. Elif Cüceoğlu,4,4,0,false,true,true,22,"{1,2,3,5,6}"
+202,6,ENG199,ADVANCED ENGLISH I,2,237,Öğr. Gör. Oya Perim Eray,4,4,0,false,true,true,22,"{1,2,3,5,6}"
+203,6,ENG199,ADVANCED ENGLISH I,3,237,Öğr. Gör. Oya Perim Eray,4,4,0,false,true,true,10,"{1,2,3,5,6}"
+204,6,ENG199,ADVANCED ENGLISH I,4,237,Öğr. Gör. Oya Perim Eray,4,4,0,false,true,true,10,"{1,2,3,5,6}"
+205,6,ENG199,ADVANCED ENGLISH I,5,237,Öğr. Gör. Oya Perim Eray,4,4,0,false,true,true,18,"{1,2,3,5,6}"
+206,6,ENG199,ADVANCED ENGLISH I,6,225,Öğr. Gör. Mert Ali Albayrak,4,4,0,false,true,true,22,"{1,2,3,5,6}"
+207,6,ENG199,ADVANCED ENGLISH I,7,76,Doç. Dr. MURAT ÜÇÜNCÜ,4,4,0,false,true,true,22,"{1,2,3,5,6}"
+208,6,ENG199,ADVANCED ENGLISH I,8,237,Öğr. Gör. Oya Perim Eray,4,4,0,false,true,true,4,"{1,2,3,5,6}"
+209,23,ENG200,ADVANCED ENGLISH II,1,211,Öğr. Gör. Emine Nane,4,4,0,false,true,true,22,"{1,2,3,6}"
+210,23,ENG200,ADVANCED ENGLISH II,2,236,Öğr. Gör. Onur Tahsin Koyun,4,4,0,false,true,true,22,"{1,2,3,6}"
+211,23,ENG200,ADVANCED ENGLISH II,3,185,Öğr. Gör. Burcu Başoğlu Sarıtaş,4,4,0,false,true,true,22,"{1,2,3,6}"
+212,23,ENG200,ADVANCED ENGLISH II,4,,,4,4,0,false,true,true,22,"{1,2,3,6}"
+213,23,ENG200,ADVANCED ENGLISH II,5,180,Öğr. Gör. Aysu Nur Yaman,4,4,0,false,true,true,22,"{1,2,3,6}"
+214,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,1,178,Öğr. Gör. Aslı Çobanoğlu,4,3,1,false,true,true,22,"{1,2,3,6}"
+215,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,2,239,Öğr. Gör. Pelin Köseoğlu,4,3,1,false,true,true,22,"{1,2,3,6}"
+216,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,3,,,4,3,1,false,true,true,22,"{1,2,3,6}"
+217,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,4,215,Öğr. Gör. Göksev Elçin,4,3,1,false,true,true,22,"{1,2,3,6}"
+218,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,5,,,4,3,1,false,true,true,22,"{1,2,3,6}"
+219,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,6,228,Öğr. Gör. Mustafa Baştürk,4,3,1,false,true,true,14,"{1,2,3,6}"
+220,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,7,215,Öğr. Gör. Göksev Elçin,4,3,1,false,true,true,22,"{1,2,3,6}"
+221,35,ENG330,DEVELOPING ENGLISH LANGUAGE SKILLS,8,228,Öğr. Gör. Mustafa Baştürk,4,3,1,false,true,true,8,"{1,2,3,6}"
+222,48,ENG460,PRESENTATION SKILLS,1,187,Öğr. Gör. Deniz Arman,4,3,1,false,true,true,22,"{1,2,3,6}"
+223,48,ENG460,PRESENTATION SKILLS,2,226,Öğr. Gör. Merve Acer,4,3,1,false,true,true,22,"{1,2,3,6}"
+224,48,ENG460,PRESENTATION SKILLS,3,241,Öğr. Gör. Selma Kasımay,4,3,1,false,true,true,22,"{1,2,3,6}"
+225,48,ENG460,PRESENTATION SKILLS,4,221,Öğr. Gör. Hazal Munar Balıkçıoğlu,4,3,1,false,true,true,22,"{1,2,3,6}"
+226,48,ENG460,PRESENTATION SKILLS,5,239,Öğr. Gör. Pelin Köseoğlu,4,3,1,false,true,true,22,"{1,2,3,6}"
+227,48,ENG460,PRESENTATION SKILLS,6,226,Öğr. Gör. Merve Acer,4,3,1,false,true,true,20,"{1,2,3,6}"
+228,48,ENG460,PRESENTATION SKILLS,7,187,Öğr. Gör. Deniz Arman,4,3,1,false,true,true,22,"{1,2,3,6}"
+229,48,ENG460,PRESENTATION SKILLS,8,230,Öğr. Gör. Mustafa Murat Başekim,4,3,1,false,true,true,21,"{1,2,3,6}"
+46,48,ENG460,PRESENTATION SKILLS,9,221,Öğr. Gör. Hazal Munar Balıkçıoğlu,4,3,1,false,true,true,22,"{1,2,3,6}"
+396,391,ENGE106,AKADEMİK AMAÇLI İNGİLİZCE 2,1,205,Öğr. Gör. Ebru Şenkaya,4,3,1,false,true,false,21,{4}
+397,391,ENGE106,AKADEMİK AMAÇLI İNGİLİZCE 2,2,226,Öğr. Gör. Merve Acer,4,3,1,false,true,false,21,{4}
+174,770,ENGE199,ADVANCED ENGLISH I,1,241,Öğr. Gör. Selma Kasımay,4,4,0,false,true,true,22,"{7,8,9,10,11,12}"
+175,770,ENGE199,ADVANCED ENGLISH I,2,225,Öğr. Gör. Mert Ali Albayrak,4,4,0,false,true,true,20,"{7,8,9,10,11,12}"
+176,770,ENGE199,ADVANCED ENGLISH I,3,225,Öğr. Gör. Mert Ali Albayrak,4,4,0,false,true,true,3,"{7,8,9,10,11,12}"
+177,770,ENGE199,ADVANCED ENGLISH I,4,205,Öğr. Gör. Ebru Şenkaya,4,4,0,false,true,true,2,"{7,8,9,10,11,12}"
+178,770,ENGE199,ADVANCED ENGLISH I,5,213,Öğr. Gör. Firdevs Beste Kaptanoğlu,4,4,0,false,true,true,22,"{7,8,9,10,11,12}"
+179,770,ENGE199,ADVANCED ENGLISH I,6,205,Öğr. Gör. Ebru Şenkaya,4,4,0,false,true,true,21,"{7,8,9,10,11,12}"
+180,929,ENGE200,ADVANCED ENGLISH II,1,,,4,4,0,false,true,true,22,"{8,10,11,12}"
+181,929,ENGE200,ADVANCED ENGLISH II,3,,,4,4,0,false,true,true,22,"{8,10,11,12}"
+182,929,ENGE200,ADVANCED ENGLISH II,4,211,Öğr. Gör. Emine Nane,4,4,0,false,true,true,22,"{8,10,11,12}"
+183,429,ENGE310,DEVELOPING ENGLISH LANGUAGE SKILLS,1,178,Öğr. Gör. Aslı Çobanoğlu,4,3,1,false,true,true,22,"{4,8,10,11,12}"
+184,429,ENGE310,DEVELOPING ENGLISH LANGUAGE SKILLS,2,178,Öğr. Gör. Aslı Çobanoğlu,4,3,1,false,true,true,22,"{4,8,10,11,12}"
+185,429,ENGE310,DEVELOPING ENGLISH LANGUAGE SKILLS,3,178,Öğr. Gör. Aslı Çobanoğlu,4,3,1,false,true,true,22,"{4,8,10,11,12}"
+186,429,ENGE310,DEVELOPING ENGLISH LANGUAGE SKILLS,4,239,Öğr. Gör. Pelin Köseoğlu,4,3,1,false,true,true,20,"{4,8,10,11,12}"
+187,436,ENGE410,PRESENTATION SKILLS,1,241,Öğr. Gör. Selma Kasımay,4,3,1,false,true,true,22,"{4,8,10,11,12}"
+188,436,ENGE410,PRESENTATION SKILLS,2,239,Öğr. Gör. Pelin Köseoğlu,4,3,1,false,true,true,25,"{4,8,10,11,12}"
+302,1290,ENGN122,COMPUTER AIDED ENGINEERING DRAWING,1,18,Doç. Dr. ÖZGÜR EROL,3,1,2,false,true,false,22,{11}
+303,1290,ENGN122,COMPUTER AIDED ENGINEERING DRAWING,2,18,Doç. Dr. ÖZGÜR EROL,3,1,2,false,true,false,22,{11}
+304,1303,ENGN232,MANUFACTURING PROCESSES,1,59,Doç. Dr. EBRU SARALOĞLU GÜLER,4,2,2,false,true,false,10,{11}
+305,1303,ENGN232,MANUFACTURING PROCESSES,2,59,Doç. Dr. EBRU SARALOĞLU GÜLER,4,2,2,false,true,false,31,{11}
+47,14,FİZ104,ELEKTRİK LABORATUVARI,1,157,Prof. Dr. Hayri Yılmaz Kaptan,2,0,2,false,false,true,42,"{1,2,3,5,6}"
+48,14,FİZ104,ELEKTRİK LABORATUVARI,2,63,Doç. Dr. MUSTAFA AZREG,2,0,2,false,false,true,43,"{1,2,3,5,6}"
+49,14,FİZ104,ELEKTRİK LABORATUVARI,3,168,Prof. Dr. Tofik Mamedov,2,0,2,false,false,true,43,"{1,2,3,5,6}"
+50,14,FİZ104,ELEKTRİK LABORATUVARI,4,169,Prof. Dr. Ulviye Bunyatova,2,0,2,false,false,true,44,"{1,2,3,5,6}"
+285,14,FİZ104,ELEKTRİK LABORATUVARI,5,63,Doç. Dr. MUSTAFA AZREG,2,0,2,false,false,true,40,"{1,2,3,5,6}"
+51,14,FİZ104,ELEKTRİK LABORATUVARI,6,169,Prof. Dr. Ulviye Bunyatova,2,0,2,false,false,true,42,"{1,2,3,5,6}"
+347,14,FİZ104,ELEKTRİK LABORATUVARI,7,63,Doç. Dr. MUSTAFA AZREG,2,0,2,false,false,true,39,"{1,2,3,5,6}"
+348,14,FİZ104,ELEKTRİK LABORATUVARI,8,87,Dr. Öğr. Üyesi GÖNÜL ÜNAL MESTA,2,0,2,false,false,true,35,"{1,2,3,5,6}"
+349,14,FİZ104,ELEKTRİK LABORATUVARI,11,169,Prof. Dr. Ulviye Bunyatova,2,0,2,false,false,true,16,"{1,2,3,5,6}"
+350,14,FİZ104,ELEKTRİK LABORATUVARI,14,169,Prof. Dr. Ulviye Bunyatova,2,0,2,false,false,true,15,"{1,2,3,5,6}"
+52,15,FİZ110,GENEL FİZİK II,1,168,Prof. Dr. Tofik Mamedov,4,3,1,false,false,true,56,"{1,2,3,5,6}"
+53,15,FİZ110,GENEL FİZİK II,2,164,Prof. Dr. Rahmi Yağbasan,4,3,1,false,false,true,55,"{1,2,3,5,6}"
+286,15,FİZ110,GENEL FİZİK II,3,157,Prof. Dr. Hayri Yılmaz Kaptan,4,3,1,false,false,true,42,"{1,2,3,5,6}"
+287,15,FİZ110,GENEL FİZİK II,4,113,Doç. Dr. Seda Bengi,4,3,1,false,false,true,42,"{1,2,3,5,6}"
+54,15,FİZ110,GENEL FİZİK II,5,168,Prof. Dr. Tofik Mamedov,4,3,1,false,false,true,35,"{1,2,3,5,6}"
+55,15,FİZ110,GENEL FİZİK II,6,113,Doç. Dr. Seda Bengi,4,3,1,false,false,true,57,"{1,2,3,5,6}"
+56,15,FİZ110,GENEL FİZİK II,7,157,Prof. Dr. Hayri Yılmaz Kaptan,4,3,1,false,false,true,55,"{1,2,3,5,6}"
+351,15,FİZ110,GENEL FİZİK II,8,156,Prof. Dr. Hasan Hamit Yurtseven,4,3,1,false,false,true,37,"{1,2,3,5,6}"
+352,15,FİZ110,GENEL FİZİK II,9,133,Dr. Öğr. Üyesi Kadir Can Erbaş,4,3,1,false,false,true,36,"{1,2,3,5,6}"
+353,15,FİZ110,GENEL FİZİK II,10,136,Dr. Öğr. Üyesi Neslihan Akçay,4,3,1,false,false,true,36,"{1,2,3,5,6}"
+57,121,GNLÇ310,GÖNÜLLÜLÜK ÇALIŞMALARI,1,184,Öğr. Gör. Beliz Toroslu,3,1,2,true,false,false,25,"{1,2,4,5,6,8,9,10,12}"
+58,90,GSB101,FOTOĞRAFÇILIK,1,220,Öğr. Gör. Hasan Eren Çalışkan,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+59,90,GSB101,FOTOĞRAFÇILIK,2,220,Öğr. Gör. Hasan Eren Çalışkan,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+60,94,GSB105,KLASİK MÜZİK DİNLEME KÜLTÜRÜ,1,223,Öğr. Gör. Lalegül Sabuncuoğlu,2,0,2,true,false,true,73,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+61,94,GSB105,KLASİK MÜZİK DİNLEME KÜLTÜRÜ,2,223,Öğr. Gör. Lalegül Sabuncuoğlu,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+62,94,GSB105,KLASİK MÜZİK DİNLEME KÜLTÜRÜ,3,223,Öğr. Gör. Lalegül Sabuncuoğlu,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+63,94,GSB105,KLASİK MÜZİK DİNLEME KÜLTÜRÜ,4,223,Öğr. Gör. Lalegül Sabuncuoğlu,2,0,2,true,false,true,55,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+64,94,GSB105,KLASİK MÜZİK DİNLEME KÜLTÜRÜ,5,223,Öğr. Gör. Lalegül Sabuncuoğlu,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+65,94,GSB105,KLASİK MÜZİK DİNLEME KÜLTÜRÜ,6,223,Öğr. Gör. Lalegül Sabuncuoğlu,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+66,95,GSB107,GÖRSEL KÜLTÜR VE SANATIN TARİHİ,1,149,Prof. Dr. Billur Tekkök Karaöz,2,0,2,true,false,true,73,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+67,95,GSB107,GÖRSEL KÜLTÜR VE SANATIN TARİHİ,2,245,Öğr. Gör. Sibel Aktaş,2,0,2,true,false,true,52,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+68,96,GSB109,ANADOLU ARKEOLOJİSİ,1,244,Öğr. Gör. Serhan Gündüz,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+69,96,GSB109,ANADOLU ARKEOLOJİSİ,2,244,Öğr. Gör. Serhan Gündüz,2,0,2,true,false,true,55,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+70,96,GSB109,ANADOLU ARKEOLOJİSİ,4,112,Doç. Dr. Rasih Haldun Aydıngün,2,0,2,true,false,true,53,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+71,97,GSB111,SİNEMA KÜLTÜRÜ VE TARİHİ,1,,,2,0,2,true,false,true,73,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+72,98,GSB113,RESİM,1,207,Öğr. Gör. Elif Asena Ceylan,2,0,2,true,false,true,49,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+73,98,GSB113,RESİM,2,207,Öğr. Gör. Elif Asena Ceylan,2,0,2,true,false,true,67,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+74,101,GSB119,İNSAN VE ÇEVRE ETKİLEŞİMİ,1,161,Prof. Dr. Nazmiye Erdoğan,2,0,2,true,false,true,99,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+75,101,GSB119,İNSAN VE ÇEVRE ETKİLEŞİMİ,2,112,Doç. Dr. Rasih Haldun Aydıngün,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+76,103,GSB123,ÇAĞDAŞ DANSA GİRİŞ,1,252,Öğr. Gör. İlhan Özgür Yağcı,2,0,2,true,false,true,47,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+77,104,GSB125,TAKI TASARIMI,1,,,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+78,105,GSB127,SERAMİK,1,245,Öğr. Gör. Sibel Aktaş,2,0,2,true,false,true,14,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+79,105,GSB127,SERAMİK,2,245,Öğr. Gör. Sibel Aktaş,2,0,2,true,false,true,14,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+80,105,GSB127,SERAMİK,3,245,Öğr. Gör. Sibel Aktaş,2,0,2,true,false,true,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+81,106,GSB129,KENTLER VE TARİHSEL ÇEVRE,1,141,Dr. Öğr. Üyesi Tulga Albustanlıoğlu,2,0,2,true,false,true,54,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+82,106,GSB129,KENTLER VE TARİHSEL ÇEVRE,2,141,Dr. Öğr. Üyesi Tulga Albustanlıoğlu,2,0,2,true,false,true,54,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+83,106,GSB129,KENTLER VE TARİHSEL ÇEVRE,3,141,Dr. Öğr. Üyesi Tulga Albustanlıoğlu,2,0,2,true,false,true,54,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+84,110,GSB137,ETKİLİ VE GÜZEL KONUŞMA,1,249,Öğr. Gör. Zeynep Şule Zengin,2,0,2,true,false,true,75,"{1,3,5,7,8,9}"
+85,112,GSB141,MATEMATİK TARİHİ,1,235,Öğr. Gör. Nilay Akgönüllü Pirim,2,0,2,true,false,true,13,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+306,1304,IND208,OPERATIONS RESEARCH I,1,174,Prof. Dr. İbrahim Akgün,4,3,1,false,false,false,35,{11}
+307,1305,IND212,ERGONOMICS,1,153,Prof. Dr. Gülin Feryal Ural,3,2,1,false,false,false,10,{11}
+308,1305,IND212,ERGONOMICS,2,153,Prof. Dr. Gülin Feryal Ural,3,2,1,false,false,false,33,{11}
+309,1306,IND214,STATISTICAL ANALYSIS,1,138,Dr. Öğr. Üyesi Pelin Toktaş,4,3,1,false,false,false,35,{11}
+310,1307,IND216,ALGORITHM PRINCIPLES AND APPLICATIONS,1,99,Prof. Dr. İREM UÇAL SARI,3,3,0,false,false,false,30,{11}
+311,1319,IND304,MANUF. SYS. AND FACILITIES PLANNING,1,42,Dr. Öğr. Üyesi MEHMET GÜLŞEN,4,2,2,false,false,false,25,{11}
+312,1320,IND310,PRODUCTION PLANNING AND CONTROL I,1,99,Prof. Dr. İREM UÇAL SARI,4,3,1,false,false,false,25,{11}
+313,1321,IND320,SIMULATION,1,148,Prof. Dr. Berna Dengiz,4,3,1,false,false,false,25,{11}
+314,1335,IND352,FORECASTING TECHNIQUES,1,42,Dr. Öğr. Üyesi MEHMET GÜLŞEN,3,3,0,false,false,false,21,{11}
+315,1338,IND355,PROJECT MANAGEMENT,1,129,Dr. Öğr. Üyesi Gözde Bilgin,4,3,1,false,false,false,10,{11}
+316,1344,IND420,DECISION SUPPORT SYSTEMS AND PRACTICES,1,,,4,3,1,false,false,false,21,{11}
+317,1350,IND429,SYTEM ANALYSIS AND MAIN DESIGN TESHNIQUES,1,,,3,3,0,false,false,false,23,{11}
+318,1351,IND434,SPECIAL TOPICS IN INDUSTRIAL ENGINEERING,1,42,Dr. Öğr. Üyesi MEHMET GÜLŞEN,3,3,0,false,false,false,20,{11}
+86,114,KAM100,KIBRIS TÜRKLERİNİN YAKIN TARİHİ,1,,,2,0,2,true,false,false,14,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+87,1,KRY100,KARİYER PLANLAMA,10,206,Öğr. Gör. Ece Serin Orakcı,1,1,0,true,false,false,480,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+354,129,KİM110,GENEL KİMYA,1,127,Dr. Öğr. Üyesi Filiz Kara,4,3,1,false,false,false,104,"{2,3,5,6}"
+355,129,KİM110,GENEL KİMYA,2,150,Prof. Dr. Emine Gül Cansu Ergün,4,3,1,false,false,false,102,"{2,3,5,6}"
+356,130,KİM116,GENEL KİMYA LABORATUVARI,1,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,23,"{2,3,5,6}"
+427,130,KİM116,GENEL KİMYA LABORATUVARI,2,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,36,"{2,3,5,6}"
+357,130,KİM116,GENEL KİMYA LABORATUVARI,3,127,Dr. Öğr. Üyesi Filiz Kara,2,0,2,false,false,false,26,"{2,3,5,6}"
+358,130,KİM116,GENEL KİMYA LABORATUVARI,4,150,Prof. Dr. Emine Gül Cansu Ergün,2,0,2,false,false,false,25,"{2,3,5,6}"
+359,130,KİM116,GENEL KİMYA LABORATUVARI,5,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,19,"{2,3,5,6}"
+360,130,KİM116,GENEL KİMYA LABORATUVARI,6,250,Öğr. Gör. Özge Yücel,2,0,2,false,false,false,25,"{2,3,5,6}"
+428,646,MAK106,BİLGİSAYAR DESTEKLİ TASARIMA GİRİŞ,1,86,Doç. Dr. UĞUR KEMİKLİOĞLU,3,3,0,false,false,false,37,{6}
+429,646,MAK106,BİLGİSAYAR DESTEKLİ TASARIMA GİRİŞ,2,,,3,3,0,false,false,false,31,{6}
+430,647,MAK111,MAKİNE MÜHENDİSLİĞİNE GİRİŞ,1,67,Dr. Öğr. Üyesi YELDA ÖZDİL KAÇAN,2,2,0,false,false,false,70,{6}
+431,659,MAK206,DİNAMİK,1,33,Prof. Dr. SEDAT BAYSEÇ,4,3,1,false,false,false,65,{6}
+432,660,MAK210,ÜRETİM TEKNOLOJİLERİ,1,96,Prof. Dr. BEHZAD AVISHAN,3,2,1,false,false,false,80,{6}
+433,654,MAK211,STATİK,1,14,Doç. Dr. MUHAMMED ARAS,4,3,1,false,false,false,50,{6}
+434,661,MAK213,MAKİNE MÜHENDİSLİĞİNDE PROGRAMLAMA,1,117,Dr. Öğr. Üyesi Andaç Töre Şamiloğlu,3,3,0,false,false,false,60,{6}
+435,655,MAK215,MALZEME BİLİMİ,1,121,Dr. Öğr. Üyesi Bedi Cenk Balçık,4,3,1,false,false,false,25,{6}
+436,662,MAK218,SAYISAL ANALİZ,1,15,Prof. Dr. HÜSEYİN YAPICI,4,3,1,false,false,false,45,{6}
+437,662,MAK218,SAYISAL ANALİZ,2,121,Dr. Öğr. Üyesi Bedi Cenk Balçık,4,3,1,false,false,false,10,{6}
+438,663,MAK222,MUKAVEMET,1,86,Doç. Dr. UĞUR KEMİKLİOĞLU,4,3,1,false,false,false,50,{6}
+439,666,MAK307,AKIŞKANLAR MEKANİĞİ I,1,167,Prof. Dr. Tahir Yavuz,4,3,1,false,false,false,20,{6}
+440,674,MAK308,AKIŞKANLAR MEKANİĞİ II,1,22,Dr. Öğr. Üyesi ERHAN SOLAKOĞLU,4,3,1,false,false,false,41,{6}
+441,674,MAK308,AKIŞKANLAR MEKANİĞİ II,2,167,Prof. Dr. Tahir Yavuz,4,3,1,false,false,false,20,{6}
+442,667,MAK310,MAKİNE ELEMANLARI,1,67,Dr. Öğr. Üyesi YELDA ÖZDİL KAÇAN,4,3,1,false,false,false,5,{6}
+443,675,MAK320,MAKİNE TASARIMI,1,33,Prof. Dr. SEDAT BAYSEÇ,4,3,1,false,false,false,45,{6}
+444,669,MAK321,ISI TRANSFERİ,1,53,Dr. Öğr. Üyesi EROL ÇUBUKÇU,4,3,1,false,false,false,55,{6}
+445,670,MAK323,ÜRETİM MÜHENDİSLİĞİ,1,96,Prof. Dr. BEHZAD AVISHAN,4,3,1,false,false,false,10,{6}
+446,676,MAK331,MÜHENDİSLİK İSTATİSTİĞİ,1,26,Prof. Dr. CAN BARAN AKTAŞ,3,3,0,false,false,false,35,{6}
+447,677,MAK332,SİSTEM DİNAMİĞİ VE KONTROL,1,117,Dr. Öğr. Üyesi Andaç Töre Şamiloğlu,4,3,1,false,false,false,45,{6}
+448,732,MAK340,UYGULAMALI TERMODİNAMİK,1,24,Dr. Öğr. Üyesi LEVENT ÇOLAK,3,3,0,false,false,false,17,{6}
+449,733,MAK342,MEKANİK TİTREŞİMLER,1,165,Prof. Dr. Sami Karadeniz,3,3,0,false,false,false,20,{6}
+450,734,MAK344,KOMPOZİT MALZEMELER,1,192,Öğr. Gör. Dr. Besim Gökçe Dara,3,3,0,false,false,false,19,{6}
+451,689,MAK412,MAKİNE MÜHENDİSLİĞİ LABORATUVARI,1,147,Prof. Dr. Ahmet Demir Bayka,4,2,2,false,false,false,25,{6}
+452,689,MAK412,MAKİNE MÜHENDİSLİĞİ LABORATUVARI,2,147,Prof. Dr. Ahmet Demir Bayka,4,2,2,false,false,false,25,{6}
+453,696,MAK415,ENERJİ MÜHENDİSLİĞİ,1,15,Prof. Dr. HÜSEYİN YAPICI,3,3,0,false,false,false,25,{6}
+454,699,MAK422,METAL ŞEKİLLENDİRME,1,67,Dr. Öğr. Üyesi YELDA ÖZDİL KAÇAN,3,3,0,false,false,false,15,{6}
+455,702,MAK425,MEKANİK METALURJİ,1,192,Öğr. Gör. Dr. Besim Gökçe Dara,3,3,0,false,false,false,15,{6}
+456,703,MAK427,TÜRBO MAKİNALAR,1,22,Dr. Öğr. Üyesi ERHAN SOLAKOĞLU,3,3,0,false,false,false,15,{6}
+457,707,MAK434,HİDROLİK VE PNÖMATİK SİSTEMLER,1,33,Prof. Dr. SEDAT BAYSEÇ,3,3,0,false,false,false,15,{6}
+458,683,MAK468,ISIL SİSTEM TASARIMI,1,53,Dr. Öğr. Üyesi EROL ÇUBUKÇU,4,3,1,false,false,false,15,{6}
+459,722,MAK485,AERODİNAMİK,1,22,Dr. Öğr. Üyesi ERHAN SOLAKOĞLU,3,3,0,false,false,false,15,{6}
+460,723,MAK488,GAZ DİNAMİĞİ,1,15,Prof. Dr. HÜSEYİN YAPICI,3,3,0,false,false,false,15,{6}
+461,724,MAK490,MAKİNE MÜHENDİSLİĞİNDE ÖZEL KONULAR,1,147,Prof. Dr. Ahmet Demir Bayka,3,3,0,false,false,false,15,{6}
+88,9,MAT151,MATEMATİKSEL ANALİZ I,1,122,Dr. Öğr. Üyesi Cansu Betin Onur,5,4,1,false,false,true,32,"{1,2,3,5,6}"
+89,9,MAT151,MATEMATİKSEL ANALİZ I,2,47,Dr. Öğr. Üyesi SAMET SARIOĞLAN,5,4,1,false,false,true,32,"{1,2,3,5,6}"
+90,9,MAT151,MATEMATİKSEL ANALİZ I,3,203,Öğr. Gör. Dr. Özge Güller,5,4,1,false,false,true,33,"{1,2,3,5,6}"
+91,9,MAT151,MATEMATİKSEL ANALİZ I,4,203,Öğr. Gör. Dr. Özge Güller,5,4,1,false,false,true,54,"{1,2,3,5,6}"
+92,9,MAT151,MATEMATİKSEL ANALİZ I,5,233,Öğr. Gör. Nazlıcan Çakmak,5,4,1,false,false,true,54,"{1,2,3,5,6}"
+230,16,MAT152,MATEMATİKSEL ANALİZ II,1,58,Dr. Öğr. Üyesi BANU AYTAR,5,4,1,false,false,true,46,"{1,2,3,5,6}"
+231,16,MAT152,MATEMATİKSEL ANALİZ II,2,111,Doç. Dr. Nilay Şahin Bayram,5,4,1,false,false,true,47,"{1,2,3,5,6}"
+232,16,MAT152,MATEMATİKSEL ANALİZ II,3,65,Dr. Öğr. Üyesi GENCAY OĞUZ,5,4,1,false,false,true,47,"{1,2,3,5,6}"
+93,16,MAT152,MATEMATİKSEL ANALİZ II,4,183,Öğr. Gör. Belgin Özkul,5,4,1,false,false,true,50,"{1,2,3,5,6}"
+94,16,MAT152,MATEMATİKSEL ANALİZ II,5,183,Öğr. Gör. Belgin Özkul,5,4,1,false,false,true,50,"{1,2,3,5,6}"
+233,16,MAT152,MATEMATİKSEL ANALİZ II,6,216,Öğr. Gör. Gülbahar Erim,5,4,1,false,false,true,36,"{1,2,3,5,6}"
+234,16,MAT152,MATEMATİKSEL ANALİZ II,7,12,Doç. Dr. HAZEL YÜCEL,5,4,1,false,false,true,36,"{1,2,3,5,6}"
+235,16,MAT152,MATEMATİKSEL ANALİZ II,8,143,Dr. Öğr. Üyesi Tülin Altunöz Yazıcı,5,4,1,false,false,true,36,"{1,2,3,5,6}"
+95,17,MAT210,DOĞRUSAL CEBİR,1,195,Öğr. Gör. Dr. Esin Turan,4,3,1,false,false,false,45,"{1,2,3,5}"
+236,17,MAT210,DOĞRUSAL CEBİR,3,122,Dr. Öğr. Üyesi Cansu Betin Onur,4,3,1,false,false,false,20,"{1,2,3,5}"
+288,17,MAT210,DOĞRUSAL CEBİR,4,61,Dr. Öğr. Üyesi BURAK YILDIZ,4,3,1,false,false,false,46,"{1,2,3,5}"
+237,17,MAT210,DOĞRUSAL CEBİR,5,61,Dr. Öğr. Üyesi BURAK YILDIZ,4,3,1,false,false,false,20,"{1,2,3,5}"
+96,17,MAT210,DOĞRUSAL CEBİR,6,162,Prof. Dr. Necmeddin Tanrıöver,4,3,1,false,false,false,30,"{1,2,3,5}"
+97,17,MAT210,DOĞRUSAL CEBİR,7,195,Öğr. Gör. Dr. Esin Turan,4,3,1,false,false,false,41,"{1,2,3,5}"
+98,17,MAT210,DOĞRUSAL CEBİR,8,162,Prof. Dr. Necmeddin Tanrıöver,4,3,1,false,false,false,46,"{1,2,3,5}"
+462,144,MAT222,DİFERANSİYEL DENKLEMLER,1,45,Doç. Dr. MÜJDAT KAYA,4,3,1,false,false,false,27,"{2,5,6}"
+463,144,MAT222,DİFERANSİYEL DENKLEMLER,2,45,Doç. Dr. MÜJDAT KAYA,4,3,1,false,false,false,60,"{2,5,6}"
+289,144,MAT222,DİFERANSİYEL DENKLEMLER,3,216,Öğr. Gör. Gülbahar Erim,4,3,1,false,false,false,27,"{2,5,6}"
+290,145,MAT230,MÜHENDİSLİK MATEMATİĞİ,1,183,Öğr. Gör. Belgin Özkul,4,3,1,false,false,false,70,{2}
+99,29,MAT250,OLASILIK VE İSTATİSTİK,1,125,Dr. Öğr. Üyesi Elmas Burcu Mamak Ekinci,4,3,1,false,false,false,60,{1}
+100,29,MAT250,OLASILIK VE İSTATİSTİK,2,25,Dr. Öğr. Üyesi GÖZDE ÖNDER UZUN,4,3,1,false,false,false,60,{1}
+101,30,MAT286,BİLGİSAYAR MÜHENDİSLİĞİ İÇİN MATEMATİK,1,163,Prof. Dr. Nizami Gasilov,4,3,1,false,false,false,46,{1}
+102,30,MAT286,BİLGİSAYAR MÜHENDİSLİĞİ İÇİN MATEMATİK,2,163,Prof. Dr. Nizami Gasilov,4,3,1,false,false,false,51,{1}
+136,384,MATH151,MATEMATİKSEL ANALİZ I,1,12,Doç. Dr. HAZEL YÜCEL,5,4,1,false,false,true,31,"{4,7,8,9,10,11,12}"
+137,384,MATH151,MATEMATİKSEL ANALİZ I,2,47,Dr. Öğr. Üyesi SAMET SARIOĞLAN,5,4,1,false,false,true,31,"{4,7,8,9,10,11,12}"
+138,384,MATH151,MATEMATİKSEL ANALİZ I,3,179,Öğr. Gör. Ayhan Aksoy,5,4,1,false,false,true,45,"{4,7,8,9,10,11,12}"
+139,392,MATH152,MATEMATİKSEL ANALİZ II,1,65,Dr. Öğr. Üyesi GENCAY OĞUZ,5,4,1,false,false,true,36,"{4,7,8,9,10,11,12}"
+140,392,MATH152,MATEMATİKSEL ANALİZ II,2,233,Öğr. Gör. Nazlıcan Çakmak,5,4,1,false,false,true,36,"{4,7,8,9,10,11,12}"
+141,392,MATH152,MATEMATİKSEL ANALİZ II,3,216,Öğr. Gör. Gülbahar Erim,5,4,1,false,false,true,36,"{4,7,8,9,10,11,12}"
+142,392,MATH152,MATEMATİKSEL ANALİZ II,4,58,Dr. Öğr. Üyesi BANU AYTAR,5,4,1,false,false,true,34,"{4,7,8,9,10,11,12}"
+143,392,MATH152,MATEMATİKSEL ANALİZ II,5,111,Doç. Dr. Nilay Şahin Bayram,5,4,1,false,false,true,33,"{4,7,8,9,10,11,12}"
+144,392,MATH152,MATEMATİKSEL ANALİZ II,6,143,Dr. Öğr. Üyesi Tülin Altunöz Yazıcı,5,4,1,false,false,true,33,"{4,7,8,9,10,11,12}"
+145,921,MATH210,DOĞRUSAL CEBİR,1,122,Dr. Öğr. Üyesi Cansu Betin Onur,4,3,1,false,false,false,38,"{8,9,10,11}"
+146,921,MATH210,DOĞRUSAL CEBİR,2,47,Dr. Öğr. Üyesi SAMET SARIOĞLAN,4,3,1,false,false,false,40,"{8,9,10,11}"
+147,921,MATH210,DOĞRUSAL CEBİR,3,122,Dr. Öğr. Üyesi Cansu Betin Onur,4,3,1,false,false,false,27,"{8,9,10,11}"
+148,921,MATH210,DOĞRUSAL CEBİR,5,61,Dr. Öğr. Üyesi BURAK YILDIZ,4,3,1,false,false,false,25,"{8,9,10,11}"
+400,401,MATH222,DİFERANSİYEL DENKLEMLER,1,45,Doç. Dr. MÜJDAT KAYA,4,3,1,false,false,false,8,"{4,7,9,10,12}"
+401,401,MATH222,DİFERANSİYEL DENKLEMLER,2,45,Doç. Dr. MÜJDAT KAYA,4,3,1,false,false,false,20,"{4,7,9,10,12}"
+259,401,MATH222,DİFERANSİYEL DENKLEMLER,3,216,Öğr. Gör. Gülbahar Erim,4,3,1,false,false,false,8,"{4,7,9,10,12}"
+149,935,MATH250,PROBABILITY AND STATISTICS,1,125,Dr. Öğr. Üyesi Elmas Burcu Mamak Ekinci,4,3,1,false,false,false,60,{8}
+150,936,MATH286,MATHEMATICS FOR COMPUTER ENGINEERING,1,45,Doç. Dr. MÜJDAT KAYA,4,3,1,false,false,false,50,{8}
+402,1414,ME106,BİLGİSAYAR DESTEKLİ TASARIMA GİRİŞ,1,14,Doç. Dr. MUHAMMED ARAS,3,3,0,false,false,false,35,{12}
+403,1415,ME111,MAKİNE MÜHENDİSLİĞİNE GİRİŞ,1,24,Dr. Öğr. Üyesi LEVENT ÇOLAK,2,2,0,false,false,false,35,{12}
+404,1429,ME206,DİNAMİK,1,33,Prof. Dr. SEDAT BAYSEÇ,4,3,1,false,false,false,20,{12}
+405,1430,ME210,ÜRETİM TEKNOLOJİLERİ,1,96,Prof. Dr. BEHZAD AVISHAN,3,2,1,false,false,false,25,{12}
+406,1424,ME211,STATİK,1,14,Doç. Dr. MUHAMMED ARAS,4,3,1,false,false,false,10,{12}
+407,1431,ME213,MAKİNE MÜHENDİSLİĞİNDE PROGRAMLAMA,1,117,Dr. Öğr. Üyesi Andaç Töre Şamiloğlu,3,3,0,false,false,false,20,{12}
+408,1425,ME215,MALZEME BİLİMİ,1,121,Dr. Öğr. Üyesi Bedi Cenk Balçık,4,3,1,false,false,false,10,{12}
+409,1432,ME218,SAYISAL ANALİZ,1,121,Dr. Öğr. Üyesi Bedi Cenk Balçık,4,3,1,false,false,false,20,{12}
+410,1433,ME222,MUKAVEMET,1,14,Doç. Dr. MUHAMMED ARAS,4,3,1,false,false,false,20,{12}
+411,1435,ME307,AKIŞKANLAR MEKANİĞİ I,1,167,Prof. Dr. Tahir Yavuz,4,3,1,false,false,false,10,{12}
+412,1443,ME308,AKIŞKANLAR MEKANİĞİ II,1,199,Öğr. Gör. Dr. Markos Çağan,4,3,1,false,false,false,20,{12}
+413,1444,ME320,MAKİNE TASARIMI,1,33,Prof. Dr. SEDAT BAYSEÇ,4,3,1,false,false,false,20,{12}
+414,1438,ME321,ISI TRANSFERİ,1,53,Dr. Öğr. Üyesi EROL ÇUBUKÇU,4,3,1,false,false,false,10,{12}
+415,1445,ME331,MÜHENDİSLİK İSTATİSTİĞİ,1,26,Prof. Dr. CAN BARAN AKTAŞ,3,3,0,false,false,false,20,{12}
+416,1446,ME332,SİSTEM DİNAMİĞİ VE KONTROL,1,117,Dr. Öğr. Üyesi Andaç Töre Şamiloğlu,4,3,1,false,false,false,20,{12}
+417,1501,ME340,UYGULAMALI TERMODİNAMİK,1,24,Dr. Öğr. Üyesi LEVENT ÇOLAK,3,3,0,false,false,false,10,{12}
+418,1503,ME344,KOMPOZİT MALZEMELER,1,192,Öğr. Gör. Dr. Besim Gökçe Dara,3,3,0,false,false,false,9,{12}
+419,1458,ME412,MAKİNE MÜHENDİSLİĞİ LABORATUVARI,1,147,Prof. Dr. Ahmet Demir Bayka,4,2,2,false,false,false,20,{12}
+420,1471,ME425,MEKANİK METALURJİ,1,192,Öğr. Gör. Dr. Besim Gökçe Dara,3,3,0,false,false,false,10,{12}
+421,1472,ME427,TÜRBO MAKİNALAR,1,22,Dr. Öğr. Üyesi ERHAN SOLAKOĞLU,3,3,0,false,false,false,10,{12}
+422,1476,ME434,HİDROLİK VE PNÖMATİK SİSTEMLER,1,33,Prof. Dr. SEDAT BAYSEÇ,3,3,0,false,false,false,10,{12}
+423,1452,ME468,ISIL SİSTEM TASARIMI,1,53,Dr. Öğr. Üyesi EROL ÇUBUKÇU,4,3,1,false,false,false,10,{12}
+424,1491,ME485,AERODİNAMİK,1,22,Dr. Öğr. Üyesi ERHAN SOLAKOĞLU,3,3,0,false,false,false,10,{12}
+425,1493,ME490,MAKİNE MÜHENDİSLİĞİNDE ÖZEL KONULAR,1,147,Prof. Dr. Ahmet Demir Bayka,3,3,0,false,false,false,10,{12}
+361,263,MÜH122,TEKNİK RESİM,1,18,Doç. Dr. ÖZGÜR EROL,3,1,2,false,false,false,40,{3}
+362,263,MÜH122,TEKNİK RESİM,2,201,Öğr. Gör. Dr. Osman Yaşar Doğruer,3,1,2,false,false,false,41,{3}
+363,263,MÜH122,TEKNİK RESİM,3,201,Öğr. Gör. Dr. Osman Yaşar Doğruer,3,1,2,false,false,false,41,{3}
+364,277,MÜH232,ÜRETİM YÖNTEMLERİ,1,59,Doç. Dr. EBRU SARALOĞLU GÜLER,4,2,2,false,false,false,55,{3}
+365,277,MÜH232,ÜRETİM YÖNTEMLERİ,2,59,Doç. Dr. EBRU SARALOĞLU GÜLER,4,2,2,false,false,false,27,{3}
+103,2,ORY100,ÜNİVERSİTE HAYATINA GİRİŞ,10,188,Öğr. Gör. Derya Çiftçioğlu,1,1,0,true,false,false,63,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+151,2,ORY100,ÜNİVERSİTE HAYATINA GİRİŞ,23,188,Öğr. Gör. Derya Çiftçioğlu,1,1,0,true,false,false,152,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+152,393,PHYS104,ELEKTRİK LABORATUVARI,9,136,Dr. Öğr. Üyesi Neslihan Akçay,2,0,2,false,false,true,47,"{4,7,8,9,10,11,12}"
+153,393,PHYS104,ELEKTRİK LABORATUVARI,10,63,Doç. Dr. MUSTAFA AZREG,2,0,2,false,false,true,47,"{4,7,8,9,10,11,12}"
+154,393,PHYS104,ELEKTRİK LABORATUVARI,11,169,Prof. Dr. Ulviye Bunyatova,2,0,2,false,false,true,28,"{4,7,8,9,10,11,12}"
+155,393,PHYS104,ELEKTRİK LABORATUVARI,12,133,Dr. Öğr. Üyesi Kadir Can Erbaş,2,0,2,false,false,true,48,"{4,7,8,9,10,11,12}"
+156,393,PHYS104,ELEKTRİK LABORATUVARI,13,63,Doç. Dr. MUSTAFA AZREG,2,0,2,false,false,true,40,"{4,7,8,9,10,11,12}"
+189,393,PHYS104,ELEKTRİK LABORATUVARI,14,169,Prof. Dr. Ulviye Bunyatova,2,0,2,false,false,true,25,"{4,7,8,9,10,11,12}"
+319,394,PHYS110,GENEL FİZİK II,11,136,Dr. Öğr. Üyesi Neslihan Akçay,4,3,1,false,false,true,44,"{4,7,8,9,10,11,12}"
+320,394,PHYS110,GENEL FİZİK II,12,133,Dr. Öğr. Üyesi Kadir Can Erbaş,4,3,1,false,false,true,44,"{4,7,8,9,10,11,12}"
+157,394,PHYS110,GENEL FİZİK II,13,156,Prof. Dr. Hasan Hamit Yurtseven,4,3,1,false,false,true,50,"{4,7,8,9,10,11,12}"
+158,394,PHYS110,GENEL FİZİK II,14,87,Dr. Öğr. Üyesi GÖNÜL ÜNAL MESTA,4,3,1,false,false,true,53,"{4,7,8,9,10,11,12}"
+260,394,PHYS110,GENEL FİZİK II,15,87,Dr. Öğr. Üyesi GÖNÜL ÜNAL MESTA,4,3,1,false,false,true,48,"{4,7,8,9,10,11,12}"
+261,394,PHYS110,GENEL FİZİK II,16,156,Prof. Dr. Hasan Hamit Yurtseven,4,3,1,false,false,true,46,"{4,7,8,9,10,11,12}"
+238,24,SOS203,EKONOMİ,1,251,Öğr. Gör. Özlem Aytaç,3,3,0,false,false,false,80,"{1,2,5,6,9}"
+291,37,SOS204,İŞLETME,1,116,Dr. Öğr. Üyesi Alperen Öztürk,3,3,0,false,false,false,10,{1}
+292,146,SOS205,İŞ HUKUKU VE MÜHENDİSLİK ETİĞİ,1,142,Dr. Öğr. Üyesi Tuğçem Seçer,2,2,0,false,false,false,20,{2}
+398,409,SOS207,İŞ HUKUKU VE MÜHENDİSLİK ETİĞİ,1,142,Dr. Öğr. Üyesi Tuğçem Seçer,2,2,0,false,false,false,20,"{4,10}"
+190,930,SOS209,EKONOMİ,1,109,Doç. Dr. Burçhan Sakarya,3,3,0,false,false,false,60,"{8,10,12}"
+366,278,SOS222,MALİYET ANALİZİ,1,145,Dr. Öğr. Üyesi Yusuf Seçerdin,4,3,1,false,false,false,45,{3}
+367,278,SOS222,MALİYET ANALİZİ,2,145,Dr. Öğr. Üyesi Yusuf Seçerdin,4,3,1,false,false,false,65,{3}
+321,1308,SOS223,COST ANALYSIS,1,145,Dr. Öğr. Üyesi Yusuf Seçerdin,4,3,1,false,false,false,15,{11}
+322,1308,SOS223,COST ANALYSIS,2,145,Dr. Öğr. Üyesi Yusuf Seçerdin,4,3,1,false,false,false,26,{11}
+293,215,SOS305,AR-GE YÖNETİMİ,1,123,Dr. Öğr. Üyesi Deniz Karaçor,2,2,0,false,false,false,90,{2}
+368,333,SOS306,İŞLETME YÖNETİMİ,1,,,3,3,0,false,false,false,30,{3}
+262,1244,SOS311,AR-GE YÖNETİMİ,1,123,Dr. Öğr. Üyesi Deniz Karaçor,2,2,0,false,false,false,25,{10}
+104,88,SOS321,İLETİŞİM,1,110,Doç. Dr. Lutz Peschke,3,3,0,false,false,false,57,{1}
+369,338,SOS327,SÜRDÜRÜLEBİLİR ENERJİ POLİTİKALARI,1,,,3,3,0,false,false,false,39,{3}
+323,1368,SOS339,SUSTAINABLE ENERGY POLICIES,1,,,3,3,0,false,false,false,20,{11}
+159,993,SOS342,COMMUNICATIONS,1,110,Doç. Dr. Lutz Peschke,3,3,0,false,false,false,20,{8}
+399,477,SOS343,KÜRESEL ENERJİ POLİTİKASI VE SÜRDÜRÜLEBİLİRLİK,1,246,Öğr. Gör. Tuğçe Başar,3,3,0,false,false,false,20,{4}
+239,581,SOS404,İŞLETME,1,116,Dr. Öğr. Üyesi Alperen Öztürk,3,3,0,true,false,false,40,"{5,6}"
+464,691,SOS405,İŞ HUKUKU VE ETİK,1,,,3,3,0,true,false,false,40,{6}
+426,858,SOS407,İŞ HUKUKU VE ETİK,1,142,Dr. Öğr. Üyesi Tuğçem Seçer,3,3,0,false,false,false,40,"{7,12}"
+191,859,SOS408,İŞLETME,1,116,Dr. Öğr. Üyesi Alperen Öztürk,3,3,0,false,false,false,40,"{7,9,12}"
+370,343,SOS421,TOPLAM KALİTE YÖNETİMİ,1,202,Öğr. Gör. Dr. Yiğit Çağlar,3,3,0,true,false,false,32,"{3,5,6}"
+371,303,SOS470,İŞ HUKUKU VE MÜHENDİSLİK ETİĞİ,1,151,Prof. Dr. Emine Tuncay Kaplan,2,2,0,false,false,false,52,"{3,11}"
+324,303,SOS470,İŞ HUKUKU VE MÜHENDİSLİK ETİĞİ,2,142,Dr. Öğr. Üyesi Tuğçem Seçer,2,2,0,false,false,false,28,"{3,11}"
+105,115,TBS103,SÜRDÜRÜLEBİLİR KALKINMA HEDEFLERİ,1,,,1,1,0,true,false,false,75,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+106,116,TBS105,EKO-DÖNÜŞÜM VE İKLİM EYLEMİ,1,,,1,1,0,true,false,false,70,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+107,117,TBS106,FİNANS OKURYAZARLIĞI,1,120,Dr. Öğr. Üyesi Bade Ekim Kocaman,1,1,0,true,false,false,55,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+108,117,TBS106,FİNANS OKURYAZARLIĞI,2,119,Dr. Öğr. Üyesi Asuman Erben Yavuz,1,1,0,true,false,false,70,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+109,118,TIP099,TOPLUMSAL CİNSİYET VE KADINA YÖNELİK ŞİDDET,1,212,Öğr. Gör. Ezgi Türkçelik Türkel,3,1,2,true,false,false,53,"{1,2,3,4,5,6,7,8,9,10,12}"
+110,18,TÜRK102,TÜRK DİLİ II,11,254,Öğr. Gör. Şerife Sazak İbiş,2,2,0,false,false,false,150,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+111,18,TÜRK102,TÜRK DİLİ II,12,254,Öğr. Gör. Şerife Sazak İbiş,2,2,0,false,false,false,150,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+112,18,TÜRK102,TÜRK DİLİ II,13,254,Öğr. Gör. Şerife Sazak İbiş,2,2,0,false,false,false,200,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+113,18,TÜRK102,TÜRK DİLİ II,14,254,Öğr. Gör. Şerife Sazak İbiş,2,2,0,false,false,false,160,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+114,119,YAKE100,YARATICI KÜLTÜR ENDÜSTRİLERİ,1,,,2,2,0,true,false,false,18,"{1,2,3,4,5,6,7,8,9,10,11,12}"
+115,120,YZ101,SOSYAL BİLİMLERDE YAPAY ZEKA UYGULAMALARI,1,170,Prof. Dr. Yavuz Ercil,1,1,0,true,false,false,13,"{1,2,3,4,5,6,8,9,10,11,12}"

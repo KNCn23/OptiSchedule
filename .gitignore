@@ -1,0 +1,44 @@
+# === OS / editor junk ===
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# === Python ===
+.venv/
+.venv.from-friend-20260615/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Node / frontend ===
+node_modules/
+frontend-files/node_modules/
+dist/
+build/
+*.local
+
+# === Environment files (templates are kept) ===
+.env
+.env.*
+!.env.example
+
+# === Logs / local runtime ===
+*.log
+.run/
+
+# === Local test database (PostgreSQL data dir — never commit) ===
+.test-postgres/
+
+# === Vendored binaries / generated doc renders (regenerable, not committed) ===
+*.exe
+frontend-files/tools/
+docs/rendered/page-*.png
+
+# === Tooling state ===
+.claude/

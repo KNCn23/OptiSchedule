@@ -1,0 +1,392 @@
+/* ─── CourseDataTable Styles ──────────────────────────────────────────────── */
+/* Separated from TSX for easy UI/UX iteration.                              */
+/* All colors reference CSS custom properties from theme.css where possible. */
+/* ────────────────────────────────────────────────────────────────────────── */
+
+/* ── Container ── */
+.cdt-container {
+  width: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--card);
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.04),
+    0 4px 24px rgba(0, 0, 0, 0.03);
+  transition: box-shadow 0.3s ease;
+}
+
+.cdt-container:hover {
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.06),
+    0 8px 32px rgba(0, 0, 0, 0.05);
+}
+
+/* ── Header bar ── */
+.cdt-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.cdt-header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cdt-header-title {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.cdt-header-subtitle {
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+.cdt-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cdt-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+}
+
+.cdt-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.cdt-btn:active {
+  transform: translateY(0);
+}
+
+.cdt-btn-primary {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: #fff;
+  border-color: transparent;
+}
+
+.cdt-btn-primary:hover {
+  background: linear-gradient(135deg, #60a5fa, #3b82f6);
+}
+
+/* ── Scroll wrapper ── */
+.cdt-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ── Table ── */
+.cdt-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.cdt-table th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 10px 16px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-align: left;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  border-bottom: 1px solid var(--border);
+  transition: background-color 0.15s ease;
+}
+
+.cdt-table th:hover {
+  opacity: 0.8;
+}
+
+.cdt-th-content {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.cdt-sort-icon {
+  display: inline-flex;
+  opacity: 0.4;
+  transition: opacity 0.2s ease;
+}
+
+.cdt-sort-icon.active {
+  opacity: 1;
+}
+
+.cdt-table td {
+  padding: 12px 16px;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--border);
+  transition: background-color 0.15s ease;
+}
+
+.cdt-table tbody tr {
+  transition: background-color 0.15s ease;
+}
+
+/* ── Badges ── */
+.cdt-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cdt-badge-dept {
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.cdt-badge-dept.cse {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(37, 99, 235, 0.1));
+  color: #3b82f6;
+}
+
+.cdt-badge-dept.bil {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.15), rgba(139, 92, 246, 0.1));
+  color: #a855f7;
+}
+
+.cdt-badge-dept.default {
+  background: linear-gradient(135deg, rgba(107, 114, 128, 0.15), rgba(75, 85, 99, 0.1));
+  color: #6b7280;
+}
+
+.cdt-badge-online {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.12), rgba(5, 150, 105, 0.08));
+  color: #10b981;
+}
+
+.cdt-badge-service {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.12), rgba(217, 119, 6, 0.08));
+  color: #f59e0b;
+}
+
+.cdt-badge-offline {
+  opacity: 0.35;
+  font-weight: 500;
+}
+
+.cdt-badge-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.cdt-badge-dot.online { background: #10b981; }
+.cdt-badge-dot.service { background: #f59e0b; }
+.cdt-badge-dot.offline { background: currentColor; }
+
+/* ── Hours column ── */
+.cdt-hours {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.cdt-hours-label {
+  font-size: 10px;
+  opacity: 0.5;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.cdt-hours-value {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Semester pill ── */
+.cdt-semester {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Loading skeleton ── */
+.cdt-skeleton-row {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  gap: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.cdt-skeleton-cell {
+  height: 14px;
+  border-radius: 6px;
+  animation: cdt-shimmer 1.8s ease-in-out infinite;
+}
+
+@keyframes cdt-shimmer {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.6; }
+}
+
+/* ── Empty state ── */
+.cdt-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 64px 24px;
+  text-align: center;
+  gap: 12px;
+}
+
+.cdt-empty-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 4px;
+}
+
+.cdt-empty-title {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.cdt-empty-desc {
+  font-size: 12px;
+  opacity: 0.5;
+  max-width: 300px;
+  line-height: 1.6;
+}
+
+/* ── Error state ── */
+.cdt-error {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 16px 20px;
+  padding: 14px 18px;
+  border-radius: 12px;
+  border: 1px solid;
+  font-size: 13px;
+}
+
+/* ── Footer ── */
+.cdt-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  border-top: 1px solid var(--border);
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+/* ── Code column ── */
+.cdt-code {
+  font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* ── Course name ── */
+.cdt-course-name {
+  font-weight: 600;
+  font-size: 13px;
+  max-width: 280px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ── Filter bar inside table header ── */
+.cdt-filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.cdt-filter-select {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.cdt-filter-select:focus {
+  border-color: #3b82f6;
+}
+
+.cdt-filter-search {
+  flex: 1;
+  min-width: 160px;
+  max-width: 260px;
+  padding: 5px 10px 5px 32px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  font-size: 12px;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.cdt-filter-search:focus {
+  border-color: #3b82f6;
+}
+
+.cdt-filter-search-wrapper {
+  position: relative;
+  flex: 1;
+  min-width: 160px;
+  max-width: 260px;
+}
+
+.cdt-filter-search-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.4;
+  pointer-events: none;
+}
